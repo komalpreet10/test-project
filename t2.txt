@@ -1,0 +1,2 @@
+this is the feature for commit conflict, to understand how to be inline with remote main
+the chnages are done now
